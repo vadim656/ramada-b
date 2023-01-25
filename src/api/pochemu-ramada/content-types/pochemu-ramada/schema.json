@@ -1,0 +1,30 @@
+{
+  "kind": "collectionType",
+  "collectionName": "pochemu_ramadas",
+  "info": {
+    "singularName": "pochemu-ramada",
+    "pluralName": "pochemu-ramadas",
+    "displayName": "PochemuRamada",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": false
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "H1": {
+      "type": "string"
+    },
+    "H2": {
+      "type": "text"
+    },
+    "Img": {
+      "type": "media",
+      "multiple": false,
+      "required": true,
+      "allowedTypes": [
+        "images"
+      ]
+    }
+  }
+}

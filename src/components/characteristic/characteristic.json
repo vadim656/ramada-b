@@ -1,0 +1,18 @@
+{
+  "collectionName": "components_characteristic_characteristics",
+  "info": {
+    "displayName": "Characteristic"
+  },
+  "options": {},
+  "attributes": {
+    "Proizvidotel": {
+      "type": "string"
+    },
+    "Kolvo": {
+      "type": "string"
+    },
+    "Razmer": {
+      "type": "string"
+    }
+  }
+}
